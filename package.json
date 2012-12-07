@@ -1,0 +1,31 @@
+{
+    "name": "ktoblzcheck-webapi",
+    "version": "0.1.0",
+    "author": "Uwe L. Korn <uwelk@xhochy.com>",
+    "keywords": ["ktoblzcheck", "german", "bank", "api"],
+    "description": "binding for ktoblzcheck to check german account numbers/BLZ",
+    "dependencies": {
+        "ktoblzcheck": ">0.0.0",
+        "express": "3.x",
+        "coffee-script": "1.4.x"
+    },
+    "devDependencies": {
+    },
+    "directories": {
+    },
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/xhochy/ktoblzcheck-webapi.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xhochy/ktoblzcheck-webapi/issues"
+    },
+    "homepage": "https://github.com/xhochy/ktoblzcheck-webapi",
+    "engines": {
+        "node": ">=0.6.0"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/xhochy/ktoblzcheck-webapi/blob/master/LICENSE.txt"
+    }
+}
